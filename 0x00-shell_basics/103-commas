@@ -1,3 +1,2 @@
 #!/bin/bash
-./103-commas
-
+ls -ampv
